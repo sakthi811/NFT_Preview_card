@@ -18,6 +18,7 @@ html, body {
   font-family: 'Outfit', sans-serif;
   color: #8bacda;
   overflow-x: hidden;
+  text-align: center;
 }
 
 a {
